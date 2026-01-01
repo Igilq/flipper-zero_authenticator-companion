@@ -43,10 +43,8 @@
     "target": [
       {
         "target": "appimage",
-        "arch": [
-          "x64"
-        ]
       }
     ]
   }
 }
+
